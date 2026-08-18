@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Prateek 👋
 
-<!--
-**prateekdhariwal18-cloud/prateekdhariwal18-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Excel | Power BI | SQL | Data Visualization
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst focused on turning raw data into meaningful insights and building clear, interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+
+* **Excel** — Data Cleaning, Power Query, Pivot Tables, Charts & Dashboards
+* **Power BI** — Data Modeling, DAX & Interactive Dashboards
+* **SQL** — Data Analysis & Querying
+* **Data Visualization** — Business Insights & KPI Reporting
+
+### 📊 Featured Projects
+
+* **E-Commerce Sales Analysis Dashboard** — Microsoft Excel
+* **Sales Performance Dashboard** — Power BI
+
+### 🎯 Currently Learning
+
+* Advanced Excel
+* SQL for Data Analytics
+* Power BI & DAX
+* Data Analytics & Business Intelligence
+
+### 📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/prateek-dhariwal-1812p
+
+---
+
+*Always learning. Always building. Always improving.* 🚀
